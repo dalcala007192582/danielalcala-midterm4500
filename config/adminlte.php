@@ -226,18 +226,18 @@ return [
 
     'menu' => [
 		[
-        'type' => 'sidebar-menu-search',
-        'text' => 'search',
+			'type' => 'sidebar-menu-search',
+			'text' => 'search',
 		],     
 		[
-        'text' => 'To Do\'s',
-        'url'  => 'todos',
-        'icon' => 'fas fa-fw fa-file',
+        'text' => 'Contact Info',
+        'url'  => 'contactinfo',
+        'icon' => 'far fa-address-card',
 		],
 		[         
-        'text' => 'Calendar',
-        'url'  => 'calendar',
-        'icon' => 'fas fa-fw fa-calendar-alt',
+        'text' => 'Equipment',
+        'url'  => 'eqiupment',
+        'icon' => 'far fa-folder-open',
 		],
 	],
 
