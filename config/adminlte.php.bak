@@ -226,8 +226,8 @@ return [
 
     'menu' => [
 		[
-        'type' => 'sidebar-menu-search',
-        'text' => 'search',
+			'type' => 'sidebar-menu-search',
+			'text' => 'search',
 		],     
 		[
         'text' => 'Contact Info',
@@ -239,7 +239,6 @@ return [
         'url'  => 'eqiupment',
         'icon' => 'far fa-folder-open',
 		],
-		[
 	],
 
     /*
