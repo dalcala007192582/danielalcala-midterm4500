@@ -1,13 +1,14 @@
 @extends('adminlte::page')
 
-@section('title', 'title')
+@section('title', 'Contact Info')
 
 @section('content_header')
-    <h1>Header</h1>
+    <h1>Contact Info</h1>
 @stop
 
 @section('content')
-    <p>Content here</p>
+    <p>Phone Number - 123-456-7890</p>
+	<p>Email: equipment (at) email.com</p>
 @stop
 
 @section('css')
