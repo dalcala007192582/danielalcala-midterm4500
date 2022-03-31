@@ -7,7 +7,8 @@
 @stop
 
 @section('content')
-    <p>Phone Number - 123-456-7890</p>
+    <h2>Equipment Company Inc</h2>
+	<p>Phone Number - 123-456-7890</p>
 	<p>Email: equipment (at) email.com</p>
 @stop
 
