@@ -230,14 +230,14 @@ return [
 			'text' => 'search',
 		],     
 		[
-        'text' => 'Contact Info',
-        'url'  => 'contactinfo',
-        'icon' => 'far fa-address-card',
+			'text' => 'Contact Info',
+			'url'  => 'contactinfo',
+			'icon' => 'far fa-address-card',
 		],
 		[         
-        'text' => 'Equipment',
-        'url'  => 'eqiupment',
-        'icon' => 'far fa-folder-open',
+			'text' => 'Equipment',
+			'url'  => 'eqiupment',
+			'icon' => 'far fa-folder-open',
 		],
 	],
 

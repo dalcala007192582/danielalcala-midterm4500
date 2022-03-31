@@ -236,7 +236,7 @@ return [
 		],
 		[         
 			'text' => 'Equipment',
-			'url'  => 'eqiupment',
+			'url'  => 'equipment',
 			'icon' => 'far fa-folder-open',
 		],
 	],
